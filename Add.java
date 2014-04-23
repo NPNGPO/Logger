@@ -1,1 +1,1 @@
-public class Add{	public int add(int a, int b){		return a + b;	}}
+public class Add{	public int add(int a, int b){		return a + b;	}		private boolean validate(){			}}
