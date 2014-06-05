@@ -1,0 +1,3 @@
+[submodule "TestProject"]
+	path = TestProject
+	url = https://github.com/NPNGPO/TestProject
